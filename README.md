@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Michael
 
 <!--
 **iamsirmike/iamsirmike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a software engineer with experience in modern software engineering including Web Development, Mobile Application Development, Integration & Service Delivery, API Integration and Product Management.
+<br>
+<br>
+
+Ask me anything about...
+
+<img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/nodejs-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
