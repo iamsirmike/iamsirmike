@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software engineer with experience in modern software engineering including Web Development, Mobile Application Development, Integration & Service Delivery, API Integration and Product Management.
+I am a Software Engineer with 4+ years experience in developing scalable mobile applications for both IOS and Android platforms using Flutter and Dart in the domain of Fintech, Real Estate, Health and E-commerce. I also have experience in Back-end development using MongoDB, Express and NodeJs.
 <br>
 <br>
 
