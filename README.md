@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Software Engineer with 4+ years experience in developing scalable mobile applications for both IOS and Android platforms using Flutter and Dart in the domain of Fintech, Real Estate, Health and E-commerce. I also have experience in Back-end development using MongoDB, Express and NodeJs.
+I am a Software Engineer with 5+ years experience in developing scalable mobile applications for both IOS and Android platforms using Flutter and Dart in the domain of Fintech, Real Estate, Health and E-commerce. I also have experience in Back-end development using MongoDB, Express and NodeJs.
 <br>
 <br>
 
