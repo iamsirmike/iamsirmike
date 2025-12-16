@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Software Engineer with 5+ years experience in developing scalable mobile applications for both IOS and Android platforms using Flutter and Dart in the domain of Fintech, Real Estate, Health and E-commerce. I also have experience in Back-end development using MongoDB, Express and NodeJs.
+I'm a Mobile Engineer with 6+ years building scalable products in Fintech and Health Tech. Currently mentoring tech startups at UNICEF StartUp Lab while leveraging my experience launching mobile applications that have reached 500k+ downloads collectively.
 <br>
 <br>
 
@@ -39,8 +39,8 @@ Ask me anything about...
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-- 🔭 I’m currently working with flutter and dart
+- 🔭 I’m currently working on Sankofa Haven (A mental health app connecting Africans to professional therapists and self-care
+resources in a safe, anonymous, and supportive space)
 - 🌱 I’m currently learning Swift, Nodejs and Typescript
 - 👯 I’m looking to collaborate on Mobile Application projects
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: sirmmike_io on twitter
+- 📫 How to reach me: mikelasamoah on twitter
